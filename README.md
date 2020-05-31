@@ -11,14 +11,18 @@ es_es
 
 3. Click on a file
 
-4. Click the "Edit" button on the top right
+4. Click the "Edit" button on the top right (image see below)
 
 3. Translate all the phrases
 
-4. Commit changes in the branch
+4. Commit changes in the branch (image see below)
 
-## EDit
+## Edit
 <img width="1031" alt="uJOfg" src="https://user-images.githubusercontent.com/65412/83356977-ce85f300-a369-11ea-9551-65838b124033.png">
+
+## Commit
+<img width="849" alt="S69Wx" src="https://user-images.githubusercontent.com/65412/83356982-d34aa700-a369-11ea-9d9e-9be39efcf3ad.png">
+
 
 ## Setup
 
