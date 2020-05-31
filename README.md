@@ -1,11 +1,8 @@
-# Seeds Light Wallet Translation
+# Spanish Language Branch
 
 ## How to use this repository
 
-1. Go to your language branch, example for Spansish:
-es_es 
-
-2. Example =>  [Branch For Spansish](https://github.com/JoinSEEDS/wallet_translation/tree/es_es)
+1. This is the Spanish Language branch
 
 3. Translate all the phrases
 
