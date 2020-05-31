@@ -5,6 +5,9 @@ extension Localization on String {
 static var _t = Translations.byLocale("en_us") +
     {
       "es_es": {
+        
+        // TRANSLATION NOTE: These are automatic translations by Google Translate - please replace
+
         'Better than free transactions': 'Mejor que transacciones gratis',
         "Make payments globally without any fees. Earn rewards when you support 'regenerative' organisations and people.":
         "Realice pagos a nivel mundial sin ningún cargo. Obtenga recompensas cuando apoye a organizaciones y personas 'regenerativas'.",

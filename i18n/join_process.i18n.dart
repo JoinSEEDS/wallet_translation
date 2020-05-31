@@ -5,15 +5,15 @@ extension Localization on String {
 static var _t = Translations.byLocale("en_us") +
     {
       "es_es": {
-         "Initialize new wallet...": "tbd",
-          "Process invite link...": "tbd",
-          "Accept invite from %s...": "tbd",
+         "Initialize new wallet...": "",
+          "Process invite link...": "",
+          "Accept invite from %s...": "",
 
           // Example:
           // "Create account testact11111"
-          "Create account %s...": "tbd",
-          "Import account %s...": "tbd",
-          "Secure wallet %s...": "tbd",
+          "Create account %s...": "",
+          "Import account %s...": "",
+          "Secure wallet %s...": "",
 
       }
     };

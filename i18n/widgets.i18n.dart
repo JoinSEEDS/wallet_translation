@@ -5,31 +5,31 @@ extension Localization on String {
 static var _t = Translations.byLocale("en_us") +
     {
       "es_es": {
-        'Available balance': "tbd",
-        "Paste from clipboard": "tbd",
-        "ONLINE (connected to %s)": "tbd",
-        'OFFLINE (trying to reconnect)': "tbd",
+        'Available balance': "",
+        "Paste from clipboard": "",
+        "ONLINE (connected to %s)": "",
+        'OFFLINE (trying to reconnect)': "",
 
-        "Transaction successful": "tbd",
-        "Transaction failed": "tbd",
-        "Done": "tbd",
+        "Transaction successful": "",
+        "Transaction failed": "",
+        "Done": "",
 
-        'Page Not Found': "tbd",
-        'The page you are looking for is not available': "tbd",
+        'Page Not Found': "",
+        'The page you are looking for is not available': "",
 
-        "Delete": "tbd",
-        "Enter Passcode": "tbd",
-        "Choose Passcode": "tbd",
-        "Disable Passcode": "tbd",
+        "Delete": "",
+        "Enter Passcode": "",
+        "Choose Passcode": "",
+        "Disable Passcode": "",
 
-        'Planted balance': "tbd",
+        'Planted balance': "",
 
-        'Telos balance': "tbd",
+        'Telos balance': "",
 
-        "Transaction hash: %s": "tbd",
-        'Transfer amount': "tbd",
-        'Send': "tbd",
-        //'Available balance': "tbd",
+        "Transaction hash: %s": "",
+        'Transfer amount': "",
+        'Send': "",
+        //'Available balance': "",
 
 
 

@@ -5,24 +5,24 @@ extension Localization on String {
 static var _t = Translations.byLocale("en_us") +
     {
       "es_es": {
-        'Enter user name or account': "tbd",
-        "Transfer": "tbd",
-        "Choose existing Seeds Member to transfer": "tbd",
-        "Transaction hash: %s": "tbd",
-        'Available balance': "tbd",
-        'Transfer amount': "tbd",
-        "Transfer amount cannot be 0.": "tbd",
-        "Transfer amount is not valid.": "tbd",
-        "Transfer amount cannot be greater than availabe balance.": "tbd",
-        'Send': "tbd",
+        'Enter user name or account': "",
+        "Transfer": "",
+        "Choose existing Seeds Member to transfer": "",
+        "Transaction hash: %s": "",
+        'Available balance': "",
+        'Transfer amount': "",
+        "Transfer amount cannot be 0.": "",
+        "Transfer amount is not valid.": "",
+        "Transfer amount cannot be greater than availabe balance.": "",
+        'Send': "",
 
-         "Enter amount": "tbd",
-         "Confirm": "tbd",
+         "Enter amount": "",
+         "Confirm": "",
 
-         'Your private key has not been backed up!': "tbd",
-         'Backup': "tbd",
-         'Later': "tbd",
-         'Latest transactions': "tbd",
+         'Your private key has not been backed up!': "",
+         'Backup': "",
+         'Later': "",
+         'Latest transactions': "",
       }
     };
 

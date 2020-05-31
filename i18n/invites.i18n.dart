@@ -6,25 +6,25 @@ static var _t = Translations.byLocale("en_us") +
     {
       "es_es": {
         
-        "Invites": "tbd",
-        "Members invited by you:": "tbd",
-        "Active invites:": "tbd",
-        "%s (copy)": "tbd", // copy tx hash
-        "Sow: %s": "tbd",
-        "Transfer: %s": "tbd",
-        "No active invites": "tbd",
-        "Create new invite": "tbd",
+        "Invites": "",
+        "Members invited by you:": "",
+        "Active invites:": "",
+        "%s (copy)": "", // copy tx hash
+        "Sow: %s": "",
+        "Transfer: %s": "",
+        "No active invites": "",
+        "Create new invite": "",
 
-        "Transaction hash: %s": "tbd",
-        "Show invite code": "tbd",
-        "Invite friend": "tbd",
-        "Invite amount (minimum: 5)": "tbd",
-        "Create invite": "tbd",
-        "GREAT": "tbd",
-        "Share this link with the person you want to invite!": "tbd",
-        "Share Link": "tbd",
-        "Share Code": "tbd",
-        "Done": "tbd",
+        "Transaction hash: %s": "",
+        "Show invite code": "",
+        "Invite friend": "",
+        "Invite amount (minimum: 5)": "",
+        "Create invite": "",
+        "GREAT": "",
+        "Share this link with the person you want to invite!": "",
+        "Share Link": "",
+        "Share Code": "",
+        "Done": "",
       }
     };
 

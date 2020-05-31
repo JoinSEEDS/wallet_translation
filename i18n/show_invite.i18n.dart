@@ -6,9 +6,9 @@ static var _t = Translations.byLocale("en_us") +
     {
       "es_es": {
         'Accept your invite to create a new account and join SEEDS': 
-        "tbd",
-        'You are invited by %s': "tbd",
-        "ACCEPT": "tbd",
+        "",
+        'You are invited by %s': "",
+        "ACCEPT": "",
       }
     };
 

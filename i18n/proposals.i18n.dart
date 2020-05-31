@@ -6,29 +6,29 @@ static var _t = Translations.byLocale("en_us") +
     {
       "es_es": {
         
-        "Proposals": "tbd",
-        'Staged': "tbd",
-        "Open": "tbd",
-        'Passed': "tbd",
-        'Failed': "tbd",
+        "Proposals": "",
+        'Staged': "",
+        "Open": "",
+        'Passed': "",
+        'Failed': "",
 
-        'Created by:': "tbd",
-        '%s votes': "tbd", // "27 votes"
-        'Yes': "tbd",
-        'No': "tbd",
+        'Created by:': "",
+        '%s votes': "", // "27 votes"
+        'Yes': "",
+        'No': "",
 
-        'Recipient: %s ': "tbd",
-        'Requested amount: %s SEEDS': "tbd",
-        'Funded by: %s ': "tbd",
-        'Status: %s ': "tbd",
-        'Stage: %s ': "tbd",
-        'URL: ': "tbd",
-        "Couldn't open this url": "tbd",
-        'Description': "tbd",
-        'Voting': "tbd",
-        'Vote': "tbd",
-        "Unexpected error, please try again": "tbd",
-        "You have no trust tokens": "tbd",
+        'Recipient: %s ': "",
+        'Requested amount: %s SEEDS': "",
+        'Funded by: %s ': "",
+        'Status: %s ': "",
+        'Stage: %s ': "",
+        'URL: ': "",
+        "Couldn't open this url": "",
+        'Description': "",
+        'Voting': "",
+        'Vote': "",
+        "Unexpected error, please try again": "",
+        "You have no trust tokens": "",
       }
     };
 

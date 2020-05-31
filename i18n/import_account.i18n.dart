@@ -5,17 +5,17 @@ extension Localization on String {
 static var _t = Translations.byLocale("en_us") +
     {
       "es_es": {
-        "Private key": "tbd",
-        "Paste from clipboard": "tbd",
+        "Private key": "",
+        "Paste from clipboard": "",
         
         "If you already have Seeds account - enter active private key and account will be imported automatically": 
-        "tbd",
+        "",
 
-        "Looking for accounts...": "tbd",
-        "No accounts found associated with given key": "tbd",
-        "Given private key is not valid": "tbd",
-        "Account name": "tbd",
-        'Import account': "tbd",
+        "Looking for accounts...": "",
+        "No accounts found associated with given key": "",
+        "Given private key is not valid": "",
+        "Account name": "",
+        'Import account': "",
       }
     };
 

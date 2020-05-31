@@ -5,8 +5,8 @@ extension Localization on String {
 static var _t = Translations.byLocale("en_us") +
     {
       "es_es": {
-        'Not enough funds': "tbd",
-        'Unexpected error. Please try again with a different value.': "tbd",
+        'Not enough funds': "",
+        'Unexpected error. Please try again with a different value.': "",
       }
     };
 
