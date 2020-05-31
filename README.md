@@ -17,6 +17,9 @@ es_es
 
 4. Commit changes in the branch
 
+## EDit
+<img width="1031" alt="uJOfg" src="https://user-images.githubusercontent.com/65412/83356977-ce85f300-a369-11ea-9551-65838b124033.png">
+
 ## Setup
 
  * Each language has their own branch
