@@ -7,6 +7,12 @@ es_es
 
 2. Example =>  [Branch For Spansish](https://github.com/JoinSEEDS/wallet_translation/tree/es_es)
 
+2. Click on the `i18n` folder
+
+3. Click on a file
+
+4. Click the "Edit" button on the top right
+
 3. Translate all the phrases
 
 4. Commit changes in the branch
