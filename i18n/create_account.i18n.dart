@@ -17,9 +17,9 @@ static var _t = Translations.byLocale("en_us") +
         
         // NOTE: The sentence "your account should have exactly 12 symbols ..."
         // the words "exactly 12" are bold on the screen
-        "Tu nombre de cuenta debe tener ": "",
-        "exactamente 12": "",
-        " caracteres (letras minúsculas y números solo del 1 al 5)": "",
+        "Your account name should have ": "Tu nombre de cuenta debe tener ",
+        "exactly 12": "exactamente 12",
+        " symbols (lowercase letters and digits only 1-5)": " caracteres (letras minúsculas y números solo del 1 al 5)",
       }
     };
 
