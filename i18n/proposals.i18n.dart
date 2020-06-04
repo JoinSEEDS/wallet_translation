@@ -6,29 +6,29 @@ static var _t = Translations.byLocale("en_us") +
     {
       "es_es": {
         
-        "Proposals": "",
-        'Staged': "",
-        "Open": "",
-        'Passed': "",
-        'Failed': "",
+        "Proposals": "Propuestas",
+        'Staged': "Planeadas",
+        "Open": "Abiertas",
+        'Passed': "Aprobadas",
+        'Failed': "Fallidas",
 
-        'Created by:': "",
-        '%s votes': "", // "27 votes"
-        'Yes': "",
-        'No': "",
+        'Created by:': "Creada por",
+        '%s votes': "&s votos", // "27 votes"
+        'Yes': "Sí",
+        'No': "No",
 
-        'Recipient: %s ': "",
-        'Requested amount: %s SEEDS': "",
-        'Funded by: %s ': "",
-        'Status: %s ': "",
-        'Stage: %s ': "",
-        'URL: ': "",
-        "Couldn't open this url": "",
-        'Description': "",
-        'Voting': "",
-        'Vote': "",
-        "Unexpected error, please try again": "",
-        "You have no trust tokens": "",
+        'Recipient: %s ': "Recipiente: %s ",
+        'Requested amount: %s SEEDS': "Monto solicitado: %s SEEDS",
+        'Funded by: %s ': "Subvencionado por: %s ",
+        'Status: %s ': "Estado: %s ",
+        'Stage: %s ': "Etapa: %s ",
+        'URL: ': "URL: ",
+        "Couldn't open this url": "No se pudo abrir este url",
+        'Description': "Descripción",
+        'Voting': "Votación",
+        'Vote': "Votar",
+        "Unexpected error, please try again": "Error inesperado, por favor intenta de nuevo",
+        "You have no trust tokens": "No tienes tokens de confianza",
       }
     };
 
