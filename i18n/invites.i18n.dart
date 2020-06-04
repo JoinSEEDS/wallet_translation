@@ -6,25 +6,25 @@ static var _t = Translations.byLocale("en_us") +
     {
       "es_es": {
         
-        "Invites": "",
-        "Members invited by you:": "",
-        "Active invites:": "",
-        "%s (copy)": "", // copy tx hash
-        "Sow: %s": "",
-        "Transfer: %s": "",
-        "No active invites": "",
-        "Create new invite": "",
+        "Invites": "Invitaciones",
+        "Members invited by you:": "Miembros invitados por ti",
+        "Active invites:": "Invitaciones activas",
+        "%s (copy)": "%s (copia)", // copy tx hash
+        "Sow: %s": "Siembra: %s",
+        "Transfer: %s": "Transfiere: %s",
+        "No active invites": "No hay invitaciones activas",
+        "Create new invite": "Crear nueva invitación",
 
-        "Transaction hash: %s": "",
-        "Show invite code": "",
-        "Invite friend": "",
-        "Invite amount (minimum: 5)": "",
-        "Create invite": "",
-        "GREAT": "",
-        "Share this link with the person you want to invite!": "",
-        "Share Link": "",
-        "Share Code": "",
-        "Done": "",
+        "Transaction hash: %s": "Hash de transacción: %s",
+        "Show invite code": "Mostrar código de invitación",
+        "Invite friend": "Invitar amiga(o)",
+        "Invite amount (minimum: 5)": "Monto de invitación (mínimo: 5)",
+        "Create invite": "Crear invitación",
+        "GREAT": "GENIAL",
+        "Share this link with the person you want to invite!": "¡Comparte este enlace con la persona que quieres invitar!",
+        "Share Link": "Comparte enlace",
+        "Share Code": "Comparte código",
+        "Done": "Listo",
       }
     };
 
