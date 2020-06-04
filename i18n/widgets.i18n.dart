@@ -5,30 +5,30 @@ extension Localization on String {
 static var _t = Translations.byLocale("en_us") +
     {
       "es_es": {
-        'Available balance': "",
-        "Paste from clipboard": "",
-        "ONLINE (connected to %s)": "",
-        'OFFLINE (trying to reconnect)': "",
+        'Available balance': "Balance disponible",
+        "Paste from clipboard": "Pegar del portapapeles",
+        "ONLINE (connected to %s)": "EN LÍNEA (conectado a %s)",
+        'OFFLINE (trying to reconnect)': "FUERA DE LÍNEA (intentando reconectar)",
 
-        "Transaction successful": "",
-        "Transaction failed": "",
-        "Done": "",
+        "Transaction successful": "Transacción exitosa",
+        "Transaction failed": "Transacción fallida",
+        "Done": "Listo",
 
-        'Page Not Found': "",
-        'The page you are looking for is not available': "",
+        'Page Not Found': "Página no encontrada",
+        'The page you are looking for is not available': "La página que buscas no está disponible",
 
-        "Delete": "",
-        "Enter Passcode": "",
-        "Choose Passcode": "",
-        "Disable Passcode": "",
+        "Delete": "Borrar",
+        "Enter Passcode": "Ingresar código de acceso",
+        "Choose Passcode": "Escoge código de acceso",
+        "Disable Passcode": "Deshabilita código de acceso",
 
-        'Planted balance': "",
+        'Planted balance': "Balance plantado",
 
-        'Telos balance': "",
+        'Telos balance': "Balance Telos",
 
-        "Transaction hash: %s": "",
-        'Transfer amount': "",
-        'Send': "",
+        "Transaction hash: %s": "Hash de transacción: %s",
+        'Transfer amount': "Monto a transferir",
+        'Send': "Enviar",
         //'Available balance': "",
 
 
