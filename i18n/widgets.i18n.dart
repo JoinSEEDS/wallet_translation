@@ -29,6 +29,7 @@ static var _t = Translations.byLocale("en_us") +
         "Transaction hash: %s": "Hash de transacción: %s",
         'Transfer amount': "Monto a transferir",
         'Send': "Enviar",
+        'Back': 'Atrás',
         //'Available balance': "",
 
 
