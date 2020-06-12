@@ -30,10 +30,9 @@ static var _t = Translations.byLocale("en_us") +
         'Transfer amount': "",
         'Send': "",
         'Back': 'Atrás',
-        //'Available balance': "",
-
-
-
+        "Explore": "Explorar",
+        "Wallet": "Billetera",
+        "Profile": "Perfil",
       }
     };
 
