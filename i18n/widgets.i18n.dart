@@ -33,6 +33,16 @@ static var _t = Translations.byLocale("en_us") +
         "Explore": "Explorar",
         "Wallet": "Billetera",
         "Profile": "Perfil",
+
+        "Couldn't find a valid account name": "",
+        "Name can only contain numbers 1..5":"",
+        "Name can be lowercase only": "",
+        "Name can't have space": "",
+        "Name can't contain @": "",
+        "Name can't have special characters":"",
+        "Name should have 12 symbols": "",
+        "Only letters a..z and numbers 1..5": "",
+
       }
     };
 
