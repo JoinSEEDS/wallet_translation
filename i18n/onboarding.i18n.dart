@@ -4,7 +4,7 @@ extension Localization on String {
 
 static var _t = Translations.byLocale("en_us") +
     {
-      "es_es": {
+      "de_de": {
         
         // TRANSLATION NOTE: These are automatic translations by Google Translate - please replace
 

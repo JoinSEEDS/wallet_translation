@@ -4,7 +4,7 @@ extension Localization on String {
 
 static var _t = Translations.byLocale("en_us") +
     {
-      "es_es": {
+      "de_de": {
         "Invite code (5 words)": "",
         "Paste from clipboard": "",
         "If you received invite from another Seeds member - enter secret words and it will be claimed automatically":

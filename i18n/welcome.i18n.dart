@@ -4,7 +4,7 @@ extension Localization on String {
 
 static var _t = Translations.byLocale("en_us") +
     {
-      "es_es": {
+      "de_de": {
       'Your wallet almost ready - choose passcode to finish setup': "",
       'Welcome, %s': "",
       "FINISH": "",

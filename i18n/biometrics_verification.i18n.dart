@@ -4,7 +4,7 @@ extension Localization on String {
 
 static var _t = Translations.byLocale("en_us") +
     {
-      "es_es": {
+      "de_de": {
         'Biometrics Disabled': 'Spanish Translation goes here!',
         'Loading your SEEDS Wallet...': '',
         'Initializing Biometrics': '',
