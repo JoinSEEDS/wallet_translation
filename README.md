@@ -1,5 +1,7 @@
 # Seeds Light Wallet Translation
 
+# German
+
 ## How to use this repository
 
 1. Go to your language branch, example for Spansish:
