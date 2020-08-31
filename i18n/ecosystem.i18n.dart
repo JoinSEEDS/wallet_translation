@@ -9,11 +9,11 @@ static var _t = Translations.byLocale("en_us") +
         "Tap to participate": "",
         "Trust Tokens": "",
 
-        "Community - Invite": "",
+        "Invite": "",
         "Tap to send an invite": "",
         "Available Seeds": "",
         
-        "Harvest - Plant": "",
+        "Plant": "",
         "Tap to plant Seeds": "",
         "Planted Seeds": "",
 
