@@ -23,6 +23,11 @@ static var _t = Translations.byLocale("en_us") +
          'Backup': "",
          'Later': "",
          'Latest transactions': "",
+
+         'Network error': '',
+         'Pull to update': '',
+         'Exchange rate load error': '',
+
       }
     };
 

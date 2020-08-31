@@ -5,15 +5,15 @@ extension Localization on String {
 static var _t = Translations.byLocale("en_us") +
     {
       "es_es": {
-        "Proposals - Vote": "",
+        "Vote": "",
         "Tap to participate": "",
         "Trust Tokens": "",
 
-        "Community - Invite": "",
+        "Invite": "",
         "Tap to send an invite": "",
         "Available Seeds": "",
         
-        "Harvest - Plant": "",
+        "Plant": "",
         "Tap to plant Seeds": "",
         "Planted Seeds": "",
 
