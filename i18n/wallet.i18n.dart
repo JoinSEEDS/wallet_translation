@@ -15,9 +15,11 @@ static var _t = Translations.byLocale("en_us") +
         "Transfer amount is not valid.": "",
         "Transfer amount cannot be greater than availabe balance.": "",
         'Send': "",
+        'Receive': "Cobrar",
 
-         "Enter amount": "",
-         "Confirm": "",
+         "Enter amount": "Ingresa monto",
+         "Confirm": "Confirmar",
+         'Pay %s SEEDS to %s':'Pagar %s SEEDS a %s',
 
          'Your private key has not been backed up!': "",
          'Backup': "",
