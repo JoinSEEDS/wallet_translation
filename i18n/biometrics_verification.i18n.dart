@@ -4,9 +4,9 @@ extension Localization on String {
 
 static var _t = Translations.byLocale("en_us") +
     {
-      "es_es": {
-        'Biometrics Disabled': 'Biométrica deshabilitada',
-        'Loading your SEEDS Wallet...': 'Cargando tu SEEDS Wallet',
+      "id_id": {
+        'Biometrics Disabled': 'indonesian translation here',
+        'Loading your SEEDS Wallet...': 'indo translation here',
         'Initializing Biometrics': 'Inicializando Biométrica',
         'Enable Settings': 'Habilitar configuración',
         'Try Again': 'Intenta de nuevo',
