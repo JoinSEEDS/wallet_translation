@@ -10,7 +10,7 @@ static var _t = Translations.byLocale("en_us") +
         "If you received invite from another Seeds member - enter secret words and it will be claimed automatically":
         "Si recibiste la invitación de otro miembro de Seeds - ingresa las palabras secretas y será reclamado automáticamente",
         "Looking for invite...": "Buscando la invitación...",
-        "Network error, please try again.":"Error de red, por favor intente nuevamente.",
+        "Network not available, try later":"Red no disponible, intenta luego",
         "No invites found, try another code": "No se encontró la invitación, intenta otro código",
 
         // Example:
