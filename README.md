@@ -2,7 +2,7 @@
 
 ## How to use this repository
 
-1. This is the Spanish Language branch
+1. This is the Romanian Language branch
 
 2. Click on the `i18n` folder
 
