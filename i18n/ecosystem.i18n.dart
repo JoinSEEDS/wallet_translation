@@ -4,24 +4,24 @@ extension Localization on String {
 
 static var _t = Translations.byLocale("en_us") +
     {
-      "es_es": {
-        "Vote": "Propuestas - Votar",
-        "Tap to participate": "Toca para participar",
-        "Trust Tokens": "Tokens de Confianza",
+      "id_id": {
+        "Vote": "Pilih",
+        "Tap to participate": "klik untuk berpartisipasi",
+        "Trust Tokens": "Token Percaya",
 
-        "Invite": "Invitar",
-        "Tap to send an invite": "Toca para enviar invitación",
-        "Available Seeds": "Seeds disponibles",
+        "Invite": "Undang",
+        "Tap to send an invite": "Klik untuk mengirim undangan",
+        "Available Seeds": "Seeds tersedia",
         
-        "Plant": "Planta",
-        "Tap to plant Seeds": "Toca para plantar Seeds",
-        "Planted Seeds": "Seeds plantadas",
+        "Plant": "Menanam",
+        "Tap to plant Seeds": "Klik untuk menanam Seeds",
+        "Planted Seeds": "Seeds yang Ditanam",
 
-        "Sow: %s Transfer: %s": "Siembra: %s Transfiere: %s",
-        "Copy": "Copiar",
-        "Cancel": "Cancelar",
-        "Your invites": "Tus invitaciones",
-        "Build community - gain reputation": "Construye comunidad - gana reputación",
+        "Sow: %s Transfer: %s": "Tabur: %s Mengirim: %s",
+        "Copy": "Salinan",
+        "Cancel": "Membatalkan",
+        "Your invites": "Undangan Anda",
+        "Build community - gain reputation": "Bangun komunitas - dapatkan reputasi",
       }
     };
 
