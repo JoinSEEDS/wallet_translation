@@ -4,7 +4,7 @@ extension Localization on String {
 
 static var _t = Translations.byLocale("en_us") +
     {
-      "es_es": {
+      "id_id": {
         'You can ask for an invite at': "Puedes solicitar una invitación en",
         "Membership based on Web of Trust": "Membresía basada en una Red de Confianza",
         "By signing up, you agree to our terms and privacy policy": "Al registrarte, aceptas nuestros términos y política de privacidad",
