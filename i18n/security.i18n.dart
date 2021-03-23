@@ -3,7 +3,7 @@ import 'package:i18n_extension/i18n_extension.dart';
 extension Localization on String {
   static final _t = Translations.byLocale("en_us") +
       {
-        "es_es": {
+        "id_id": {
           "Security": "Keamanan",
           'Touch ID/ Face ID': "Touch ID/ Face ID",
           'When Touch ID/Face ID has been set up, any biometric saved in your device will be able to login into the Seeds Light Wallet. You will not be able to use this feature for transactions.':
