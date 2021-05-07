@@ -1,4 +1,6 @@
-# Hebrew Language Branch
+# SEEDS Light Wallet Translation
+
+#  Hebrew Language Branch
 
 ### [TODO: The rest of this branch is still all Spanish, so everything below and also all files need to be changed from Spanish to Hebrew]
 
