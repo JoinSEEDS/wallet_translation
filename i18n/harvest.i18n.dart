@@ -4,11 +4,11 @@ extension Localization on String {
 
 static var _t = Translations.byLocale("en_us") +
     {
-      "es_es": {
-        "Transaction hash: %s": "Hash de transacción",
-        "Success!": "Éxito!",
+      "pt_br": {
+        "Transaction hash: %s": "Hash de transação",
+        "Success!": "Sucesso!",
         "Plant Seeds": "Plantar Seeds",
-        "Plant amount": "Monto a plantar",
+        "Plant amount": "Quantiade a plantar",
       }
     };
 

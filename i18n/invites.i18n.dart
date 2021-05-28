@@ -4,27 +4,27 @@ extension Localization on String {
 
 static var _t = Translations.byLocale("en_us") +
     {
-      "es_es": {
+      "pt_br": {
         
-        "Invites": "Invitaciones",
-        "Members invited by you:": "Miembros invitados por ti",
-        "Active invites:": "Invitaciones activas",
-        "%s (copy)": "%s (copia)", // copy tx hash
-        "Sow: %s": "Siembra: %s",
-        "Transfer: %s": "Transfiere: %s",
-        "No active invites": "No hay invitaciones activas",
-        "Create new invite": "Crear nueva invitación",
+        "Invites": "Convites",
+        "Members invited by you:": "Membros convidados por você",
+        "Active invites:": "Convites ativos",
+        "%s (copy)": "%s (cópia)", // copy tx hash
+        "Sow: %s": "Colheita: %s",
+        "Transfer: %s": "Transferir: %s",
+        "No active invites": "Não existem convites ativos",
+        "Create new invite": "Criar novo convite",
 
-        "Transaction hash: %s": "Hash de transacción: %s",
-        "Show invite code": "Mostrar código de invitación",
-        "Invite friend": "Invitar amiga(o)",
-        "Invite amount (minimum: 5)": "Monto de invitación (mínimo: 5)",
-        "Create invite": "Crear invitación",
-        "GREAT": "GENIAL",
-        "Share this link with the person you want to invite!": "¡Comparte este enlace con la persona que quieres invitar!",
-        "Share Link": "Comparte enlace",
-        "Share Code": "Comparte código",
-        "Done": "Listo",
+        "Transaction hash: %s": "Hash de transação: %s",
+        "Show invite code": "Mostrar código de convite",
+        "Invite friend": "Convidar um amigo(a)",
+        "Invite amount (minimum: 5)": "Repasse do convite (mínimo: 5)",
+        "Create invite": "Criar convite",
+        "GREAT": "ÓTIMO",
+        "Share this link with the person you want to invite!": "Compartilhe esse link com a pessoa que você quer convidar",
+        "Share Link": "Compartilhar link",
+        "Share Code": "Compartilhar código",
+        "Done": "Ok",
       }
     };
 

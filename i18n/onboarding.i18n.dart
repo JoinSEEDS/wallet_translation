@@ -4,22 +4,20 @@ extension Localization on String {
 
 static var _t = Translations.byLocale("en_us") +
     {
-      "es_es": {
-        
-        // TRANSLATION NOTE: These are automatic translations by Google Translate - please replace
+      "pt_br": {
 
-        'Better than free transactions': 'Transacciones mejor que gratis',
+        'Better than free transactions': 'Transações melhores do que de graça',
         "Make payments globally without any fees. Earn rewards when you support 'regenerative' organisations and people.":
-        "Realiza pagos a nivel mundial sin ningún cargo. Obtenga recompensas cuando apoye a organizaciones y personas 'regenerativas'.",
+        "Realize pagamentos a nível mundial sem taxas. Obtenha recompensas enquanto apoia organizacões e pessoas 'regenerativas'.",
         'Vote directly on social and environmental impact projects you care about.':
-        'Vota directamente sobre los proyectos de impacto social y ambiental que te interesan.',
-        'Citizen Campaigns': 'Campañas ciudadanas',
+        'Vote diretamente nos projetos de impacto social e ambiental que te interessam.',
+        'Citizen Campaigns': 'Campanhas de cidadãos',
         'Unite with a global movement of organisations and people to regenerate our planet and heal our economy.': 
-        'Únete a un movimiento global de organizaciones y personas para regenerar nuestro planeta y sanar nuestra economía.',
-        'Regenerative Economy': 'Economía regenerativa',
-        'NEXT': 'SIGUIENTE',
-        'BACK': 'ATRÁS',
-        'JOIN NOW': 'ÚNETE AHORA',
+        'Usa-se a um movimento global de organizacões e pessoas para regenerar nosso planeta e curar nossa economia.',
+        'Regenerative Economy': 'Economia Regenerativa',
+        'NEXT': 'PRÓXIMO',
+        'BACK': 'ANTERIOR',
+        'JOIN NOW': 'ENTRAR AGORA',
       }
     };
 

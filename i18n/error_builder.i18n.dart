@@ -4,9 +4,9 @@ extension Localization on String {
 
 static var _t = Translations.byLocale("en_us") +
     {
-      "es_es": {
-        'Not enough funds': "No hay fondos suficientes",
-        'Unexpected error. Please try again with a different value.': "Error inesperado. Por favor intenta de nuevo con un valor diferente.",
+      "pt_br": {
+        'Not enough funds': "Não há fundos suficientes",
+        'Unexpected error. Please try again with a different value.': "Erro inesperado. Por favor tente novamente com um outro valor.",
       }
     };
 

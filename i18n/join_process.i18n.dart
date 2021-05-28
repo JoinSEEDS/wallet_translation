@@ -4,16 +4,16 @@ extension Localization on String {
 
 static var _t = Translations.byLocale("en_us") +
     {
-      "es_es": {
-         "Initialize new wallet...": "Inicializar billetera nueva...",
-          "Process invite link...": "Procesar enlace de invitación...",
-          "Accept invite from %s...": "Aceptar invitación de %s...",
+      "pt_br": {
+         "Initialize new wallet...": "Inicializando nova carteira...",
+          "Process invite link...": "Procesar link de convite...",
+          "Accept invite from %s...": "Aceitar convite de %s...",
 
           // Example:
           // "Create account testact11111"
-          "Create account %s...": "Crear cuenta %s...",
-          "Import account %s...": "Importar cuenta %s...",
-          "Secure wallet %s...": "Asegurar billetera %s...",
+          "Create account %s...": "Criar conta %s...",
+          "Import account %s...": "Importar conta %s...",
+          "Secure wallet %s...": "Restringir carteira %s...",
 
       }
     };

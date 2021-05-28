@@ -4,9 +4,9 @@ extension Localization on String {
 
 static var _t = Translations.byLocale("en_us") +
     {
-      "es_es": {
-         "Please enable camera access to scan QR code": "Habilite el acceso a la cámara para escanear el código QR",
-         'Try Again':"Volver a probar"
+      "pt_br": {
+         "Please enable camera access to scan QR code": "Habilite acesso à camera para escanear o código QR",
+         'Try Again':"Tentar novamente"
       }
     };
 

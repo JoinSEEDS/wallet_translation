@@ -4,18 +4,18 @@ extension Localization on String {
 
 static var _t = Translations.byLocale("en_us") +
     {
-      "es_es": {
-        "Private key": "Llave privada",
-        "Paste from clipboard": "Pegar del portapapeles",
+      "pt_br": {
+        "Private key": "Chave privada",
+        "Paste from clipboard": "Colar da área de transferência",
         
         "If you already have Seeds account - enter active private key and account will be imported automatically": 
-        "Si ya tienes una cuenta de Seeds - ingresa tu llave privada activa y tu cuenta se importará automáticamente",
+        "Se você já tem uma conta no Seeds - digite sua chave privada e sua conta será importada automaticamente",
 
-        "Looking for accounts...": "Buscando cuentas...",
-        "No accounts found associated with given key": "No se encontraron cuentas asociadas a esta llave",
-        "Given private key is not valid": "La llave privada no es válida",
-        "Account name": "Nombre de cuenta",
-        'Import account': "Importar cuenta",
+        "Looking for accounts...": "Buscando contas...",
+        "No accounts found associated with given key": "Nenhuma conta associada com essa chave",
+        "Given private key is not valid": "A chave privada não é válida",
+        "Account name": "Nome da conta",
+        'Import account': "Importar conta",
       }
     };
 

@@ -4,35 +4,34 @@ extension Localization on String {
 
 static var _t = Translations.byLocale("en_us") +
     {
-      "es_es": {
-<<<<<<< HEAD
-        'Available balance': "Balance disponible",
-        "Paste from clipboard": "Pegar del portapapeles",
-        "ONLINE (connected to %s)": "EN LÍNEA (conectado a %s)",
-        'OFFLINE (trying to reconnect)': "FUERA DE LÍNEA (intentando reconectar)",
+      "pt_br": {
+        'Available balance': "Saldo disponível",
+        "Paste from clipboard": "Colar da área de transferência",
+        "ONLINE (connected to %s)": "ONLINE (conectado a %s)",
+        'OFFLINE (trying to reconnect)': "OFFLINE (tentando reconectar)",
 
-        "Transaction successful": "Transacción exitosa",
-        "Transaction failed": "Transacción fallida",
-        "Done": "Listo",
+        "Transaction successful": "Transação bem sucedida",
+        "Transaction failed": "Transação falhou",
+        "Done": "Ok",
 
-        'Page Not Found': "Página no encontrada",
-        'The page you are looking for is not available': "La página que buscas no está disponible",
+        'Page Not Found': "Página não encontrada",
+        'The page you are looking for is not available': "A página que você estava buscando não foi encontrada",
 
-        "Delete": "Borrar",
-        "Enter Passcode": "Ingresar código de acceso",
-        "Choose Passcode": "Escoge código de acceso",
-        "Disable Passcode": "Deshabilita código de acceso",
+        "Delete": "Apagar",
+        "Enter Passcode": "Entre o código de acesso",
+        "Choose Passcode": "Escolha um código de acceso",
+        "Disable Passcode": "Desativar código de acceso",
 
-        'Planted balance': "Balance plantado",
+        'Planted balance': "Saldo plantado",
 
-        'Telos balance': "Balance Telos",
+        'Telos balance': "Saldo Telos",
 
-        "Transaction hash: %s": "Hash de transacción: %s",
-        'Transfer amount': "Monto a transferir",
+        "Transaction hash: %s": "Hash de transação: %s",
+        'Transfer amount': "Quantidade a transferir",
         'Send': "Enviar",
-        'Back': 'Atrás',
+        'Back': 'Voltar',
         "Explore": "Explorar",
-        "Wallet": "Billetera",
+        "Wallet": "Carteira",
         "Profile": "Perfil",
       }
     };

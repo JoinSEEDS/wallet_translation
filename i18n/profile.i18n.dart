@@ -3,38 +3,38 @@ import 'package:i18n_extension/i18n_extension.dart';
 extension Localization on String {
   static var _t = Translations.byLocale("en_us") +
       {
-        "es_es": {
-          'Full Name': "Nombre completo",
-          'Enter your name': "Ingresa tu nombre",
-          "Name cannot be empty": "Nombre no puede estar vacío",
-          'Save': "Guardar",
-          "Terms & Conditions": "Términos y condiciones",
-          'Privacy Policy': "Política de privacidad",
-          'Export private key': "Exportar llave privada",
-          'Logout': "Cerrar sesión",
-          'Choose Picture': "Escoger foto",
-          'Take a picture': "Tomar foto",
-          'Profile updated successfully.': "Perfil actualizado con éxito",
+        "pt_br": {
+          'Full Name': "Nome completo",
+          'Enter your name': "Digite seu nome",
+          "Name cannot be empty": "O nome não pode estar vazio",
+          'Save': "Salvar",
+          "Terms & Conditions": "Termos e condições",
+          'Privacy Policy': "Política de privacidade",
+          'Export private key': "Exportar chave privada",
+          'Logout': "Encerrar sessão",
+          'Choose Picture': "Escolher foto",
+          'Take a picture': "Capturar foto",
+          'Profile updated successfully.': "Perfil atualizado com sucesso",
           'An error occured, please try again.':
-              "Ocurrió un error, por favor intentar de nuevo",
+              "Ocurreu um erro, por favor tente novamente",
           'Save private key in secure place - to be able to restore access to your wallet later':
-              "Guarda la llave privada en un lugar seguro - para poder recuperar acceso a tu billetera luego",
-          "Save private key": "Guarda la llave privada",
-          "Key Guardians": "Guardianes de Llave",
+              "Armazene sua chave privada em um lugar seguro - para poder recuperar o acceso a sua carteira no futuro",
+          "Save private key": "Salvar a chave privada",
+          "Key Guardians": "Guardiões de Chave",
           // profile_v2
-          "Contribution Score": "Puntaje de contribución",
-          "Badges Earned": "Insignias ganadas",
-          "Bioregion": "Bioregion",
-          "Currency": "Moneda",
-          "Skills & Interest": "Habilidades e interés",
-          "You are on the way from": "Estás en el camino de",
+          "Contribution Score": "Pontos de contribucão",
+          "Badges Earned": "Conquistas recebidas",
+          "Bioregion": "Bioregião",
+          "Currency": "Moeda",
+          "Skills & Interest": "Habilidades e interesses",
+          "You are on the way from": "Está a caminho de",
           "Resident": "Residente",
-          "to": "a",
-          "Citizen": "Ciudadano",
-          "View your progress": "Ver tu progreso",
-          "Settings": "Configuraciones",
-          "Security": "Seguridad",
-          "Support": "Soporte"
+          "to": "para",
+          "Citizen": "Cidadão",
+          "View your progress": "Ver seu progreso",
+          "Settings": "Configuracões",
+          "Security": "Segurança",
+          "Support": "Suporte"
         }
       };
 

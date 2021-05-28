@@ -3,16 +3,16 @@ import 'package:i18n_extension/i18n_extension.dart';
 extension Localization on String {
   static var _t = Translations.byLocale("en_us") +
       {
-        "es_es": {
-          'Select Guardian': 'Seleccionar Guardian',
-          'Next': 'Seguir',
-          'Choose existing Seeds Member to add as guardians': 'Elija miembros de Seeds para agregar como guardianes',
-          'Select up to 5 Guardians to invite': 'Selecciona hasta 5 guardianes para invitar ',
-          'Enter user name or account': "Ingresa nombre de cuenta",
-          'Invite Guardians': "Invitar Guardianes",
-          'Send Invite': "Enviar Invitacion",
-          'The users below will be sent an invite to become your Guardian.': "Los siguientes usuarios recibirán una invitación para convertirse en su Guardian.",
-          'Invites Sent!': "Invitaciones Enviadas",
+        "pt_br": {
+          'Select Guardian': 'Selecionar Guardião',
+          'Next': 'Próximo',
+          'Choose existing Seeds Member to add as guardians': 'Escolha membros do Seeds para incluir como guardiões',
+          'Select up to 5 Guardians to invite': 'Selecione até 5 guardiões para convidar',
+          'Enter user name or account': "Digite nome de usuário ou conta",
+          'Invite Guardians': "Convidar Guardiões",
+          'Send Invite': "Enviar Convite",
+          'The users below will be sent an invite to become your Guardian.': "Os seguintes usuários abaixo receberão um convite para se tornar seus Guardiões.",
+          'Invites Sent!': "Convites Enviados!",
         }
       };
 
