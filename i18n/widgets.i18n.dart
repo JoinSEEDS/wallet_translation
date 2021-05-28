@@ -5,6 +5,7 @@ extension Localization on String {
 static var _t = Translations.byLocale("en_us") +
     {
       "es_es": {
+<<<<<<< HEAD
         'Available balance': "Balance disponible",
         "Paste from clipboard": "Pegar del portapapeles",
         "ONLINE (connected to %s)": "EN LÍNEA (conectado a %s)",
