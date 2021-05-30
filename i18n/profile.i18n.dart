@@ -22,7 +22,7 @@ extension Localization on String {
           "Save private key": "Salvar a chave privada",
           "Key Guardians": "Guardiões de Chave",
           // profile_v2
-          "Contribution Score": "Pontos de contribucão",
+          "Contribution Score": "Pontos de contribuição",
           "Badges Earned": "Conquistas recebidas",
           "Bioregion": "Bioregião",
           "Currency": "Moeda",

@@ -8,11 +8,11 @@ static var _t = Translations.byLocale("en_us") +
         "Transaction hash: %s": "Hash de transação",
         "Success!": "Sucesso!",
         "Plant Seeds": "Plantar Seeds",
-        "Plant amount": "Quantiade a plantar",
+        "Plant amount": "Quantidade a plantar",
       }
     };
 
   String get i18n => localize(this, _t);
-  String fill(List<Object> params) => localizeFill(this, params);       
+  String fill(List<Object> params) => localizeFill(this, params);
 
 }

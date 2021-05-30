@@ -5,7 +5,7 @@ extension Localization on String {
 static var _t = Translations.byLocale("en_us") +
     {
       "pt_br": {
-        
+
         "Proposals": "Propostas",
         'Staged': "Agendadas",
         'Evaluate': "Avaliar",
@@ -23,7 +23,7 @@ static var _t = Translations.byLocale("en_us") +
         'Requested: %s SEEDS': "Solicitado: %s SEEDS",
         'Funded by: %s ': "Financiado por: %s",
         'Type: %s ': "Tipo %s ",
-        'Alliance': "Alliança",
+        'Alliance': "Aliança",
         'Campaign': "Campanha",
         'Status: %s ': "Estado: %s ",
         'Stage: %s ': "Etapa: %s ",
@@ -38,6 +38,6 @@ static var _t = Translations.byLocale("en_us") +
     };
 
   String get i18n => localize(this, _t);
-  String fill(List<Object> params) => localizeFill(this, params);       
+  String fill(List<Object> params) => localizeFill(this, params);
 
 }

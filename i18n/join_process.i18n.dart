@@ -6,7 +6,7 @@ static var _t = Translations.byLocale("en_us") +
     {
       "pt_br": {
          "Initialize new wallet...": "Inicializando nova carteira...",
-          "Process invite link...": "Procesar link de convite...",
+          "Process invite link...": "Processar link de convite...",
           "Accept invite from %s...": "Aceitar convite de %s...",
 
           // Example:
@@ -19,6 +19,6 @@ static var _t = Translations.byLocale("en_us") +
     };
 
   String get i18n => localize(this, _t);
-  String fill(List<Object> params) => localizeFill(this, params);       
+  String fill(List<Object> params) => localizeFill(this, params);
 
 }

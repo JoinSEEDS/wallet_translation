@@ -1,8 +1,8 @@
-# Spanish Language Branch
+# Portuguese Language Branch
 
 ## How to use this repository
 
-1. This is the Spanish Language branch
+1. This is the Portuguese Language branch
 
 2. Click on the `i18n` folder
 
@@ -26,5 +26,3 @@
  * Updates to the language are done in master and merged into branches
  * Branches are not merged back into master - each language stays in its own branch
  * Use tickets to add screenshots for translation files
-
-
