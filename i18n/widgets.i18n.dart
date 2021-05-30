@@ -4,34 +4,34 @@ extension Localization on String {
 
 static var _t = Translations.byLocale("en_us") +
     {
-      "es_es": {
-        'Available balance': "",
-        "Paste from clipboard": "",
-        "ONLINE (connected to %s)": "",
-        'OFFLINE (trying to reconnect)': "",
+      "pt_br": {
+        'Available balance': "Saldo disponível",
+        "Paste from clipboard": "Colar da área de transferência",
+        "ONLINE (connected to %s)": "ONLINE (conectado a %s)",
+        'OFFLINE (trying to reconnect)': "OFFLINE (tentando reconectar)",
 
-        "Transaction successful": "",
-        "Transaction failed": "",
-        "Done": "",
+        "Transaction successful": "Transação bem sucedida",
+        "Transaction failed": "Transação falhou",
+        "Done": "Ok",
 
-        'Page Not Found': "",
-        'The page you are looking for is not available': "",
+        'Page Not Found': "Página não encontrada",
+        'The page you are looking for is not available': "A página que você estava buscando não foi encontrada",
 
-        "Delete": "",
-        "Enter Passcode": "",
-        "Choose Passcode": "",
-        "Disable Passcode": "",
+        "Delete": "Apagar",
+        "Enter Passcode": "Entre o código de acesso",
+        "Choose Passcode": "Escolha um código de acceso",
+        "Disable Passcode": "Desativar código de acceso",
 
-        'Planted balance': "",
+        'Planted balance': "Saldo plantado",
 
-        'Telos balance': "",
+        'Telos balance': "Saldo Telos",
 
-        "Transaction hash: %s": "",
-        'Transfer amount': "",
-        'Send': "",
-        'Back': 'Atrás',
+        "Transaction hash: %s": "Hash de transação: %s",
+        'Transfer amount': "Quantidade a transferir",
+        'Send': "Enviar",
+        'Back': 'Voltar',
         "Explore": "Explorar",
-        "Wallet": "Billetera",
+        "Wallet": "Carteira",
         "Profile": "Perfil",
       }
     };

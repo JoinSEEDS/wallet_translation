@@ -4,15 +4,15 @@ extension Localization on String {
 
 static var _t = Translations.byLocale("en_us") +
     {
-      "es_es": {
-        "Transaction hash: %s": "",
-        "Success!": "",
-        "Plant Seeds": "",
-        "Plant amount": "",
+      "pt_br": {
+        "Transaction hash: %s": "Hash de transação",
+        "Success!": "Sucesso!",
+        "Plant Seeds": "Plantar Seeds",
+        "Plant amount": "Quantidade a plantar",
       }
     };
 
   String get i18n => localize(this, _t);
-  String fill(List<Object> params) => localizeFill(this, params);       
+  String fill(List<Object> params) => localizeFill(this, params);
 
 }

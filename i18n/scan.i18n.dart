@@ -5,10 +5,8 @@ extension Localization on String {
 static var _t = Translations.byLocale("en_us") +
     {
       "pt_br": {
-        'Accept your invite to create a new account and join SEEDS': 
-        "Aceite o convite para criar uma nova conta e entrar no SEEDS",
-        'You are invited by %s': "Você foi convidado por %s",
-        "ACCEPT": "ACEITAR",
+         "Please enable camera access to scan QR code": "Habilite acesso à camera para escanear o código QR",
+         'Try Again':"Tentar novamente"
       }
     };
 

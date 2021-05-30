@@ -4,21 +4,21 @@ extension Localization on String {
 
 static var _t = Translations.byLocale("en_us") +
     {
-      "es_es": {
-         "Initialize new wallet...": "",
-          "Process invite link...": "",
-          "Accept invite from %s...": "",
+      "pt_br": {
+         "Initialize new wallet...": "Inicializando nova carteira...",
+          "Process invite link...": "Processar link de convite...",
+          "Accept invite from %s...": "Aceitar convite de %s...",
 
           // Example:
           // "Create account testact11111"
-          "Create account %s...": "",
-          "Import account %s...": "",
-          "Secure wallet %s...": "",
+          "Create account %s...": "Criar conta %s...",
+          "Import account %s...": "Importar conta %s...",
+          "Secure wallet %s...": "Restringir carteira %s...",
 
       }
     };
 
   String get i18n => localize(this, _t);
-  String fill(List<Object> params) => localizeFill(this, params);       
+  String fill(List<Object> params) => localizeFill(this, params);
 
 }
