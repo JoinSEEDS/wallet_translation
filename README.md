@@ -28,3 +28,4 @@
  * Use tickets to add screenshots for translation files
 
 
+## (c) 2025 SEEDS
